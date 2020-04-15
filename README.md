@@ -1,9 +1,11 @@
 # TODO
 
 ## Routes
+
 - [ ] HOME
-  
+
 ## Config
-- [ ] Typescript
+
+- [x] Typescript
 - [ ] Docker
 - [ ] Redux
